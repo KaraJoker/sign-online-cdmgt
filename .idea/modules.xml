@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cdmgt-eureka/cdmgt-eureka.iml" filepath="$PROJECT_DIR$/cdmgt-eureka/cdmgt-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cdmgt-service/cdmgt-service.iml" filepath="$PROJECT_DIR$/cdmgt-service/cdmgt-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sign-online-cdmgt.iml" filepath="$PROJECT_DIR$/sign-online-cdmgt.iml" />
+    </modules>
+  </component>
+</project>

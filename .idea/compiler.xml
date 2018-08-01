@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cdmgt-eureka" />
+        <module name="cdmgt-service" />
+        <module name="sign-online-cdmgt" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cdmgt-eureka" target="1.8" />
+      <module name="cdmgt-service" target="1.8" />
+      <module name="sign-online-cdmgt" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
